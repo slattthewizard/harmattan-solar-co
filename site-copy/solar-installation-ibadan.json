@@ -1,0 +1,59 @@
+{
+  "slug": "solar-installation-ibadan",
+  "city": "Ibadan",
+  "metaTitle": "Solar Installation in Ibadan: Compare 3 Written Quotes Now",
+  "metaDescription": "Solar installation in Ibadan for homes and shops. Compare written quotes from independent installers that name the exact models. Call +234 809 000 0000.",
+  "h1": "Solar Installation in Ibadan",
+  "heroSub": "From Bodija and Jericho to Akobo, Oluyole and Ring Road, get two or three comparable written quotes before you pay for any inverter, battery or panel.",
+  "introHtml": "<p>Solar installation in Ibadan usually starts with the same story: an IBEDC bill, a gen drinking petrol, and light that comes and goes. This page is for households and small businesses in Bodija, Akobo, Jericho, Oluyole, Challenge, Ring Road and the areas around them who want to know what to ask before paying anyone. Harmattan Solar Co is an advertising site, so the work itself is done by an independent installer who quotes your job.</p><p>If you live in a bungalow, the roof is usually yours alone, which makes panel placement simpler than on a shared roof. The honest way to buy is to collect two or three written quotes that list the exact inverter, battery and panel models, then compare them line by line. Call now on +234 809 000 0000 and describe what you want to run.</p>",
+  "services": [
+    {
+      "title": "Home solar installation",
+      "desc": "Hybrid systems for Ibadan bungalows, duplexes and flats, sized from a load audit of your own appliances. Roof space on a bungalow is usually the easy part; the sizing is where quotes differ."
+    },
+    {
+      "title": "Inverter and battery installation",
+      "desc": "For Ibadan households whose tubular batteries no longer last the night, or who want to move to lithium. Ask each installer to name the battery model and its manufacturer-stated cycle claim in writing."
+    },
+    {
+      "title": "Commercial solar",
+      "desc": "For shops, schools, clinics, churches and small offices in Ibadan trying to cut diesel and NEPA bills. A sensible quote starts from your fuel spend, your running hours and the loads that must not drop."
+    },
+    {
+      "title": "Solar and inverter repair",
+      "desc": "For Ibadan systems that keep tripping, beeping or going flat early. An independent installer checks the DB, changeover, earthing, protection and battery health before anyone suggests replacing parts."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What the Ibadan sun gives a system",
+      "html": "<p>PVGIS modelling (2005 to 2020 data, 1 kWp, 14% system losses, 10 degree tilt facing south) puts Ibadan at about 1,412 kWh per kWp per year, or 3.87 kWh per kWp on an average day. The best month is February at 4.57 and the lowest is August at 2.89. These are model figures before dust, so treat them as a guide to sizing, not a promise.</p><p>Here is the working for one illustration. A 3.6 kW array (8 panels of 450 W) at 3.87 kWh per kWp per day gives about 13.9 kWh on an average day, and about 10.4 kWh on an August day (3.6 x 2.89). That is why a quote sized only on the best month can leave you running the gen in the rainy season.</p><p>Harmattan brings dust, and dust on panels cuts output. No measured soiling figure exists for Ibadan, so be wary of anyone who quotes you a typical loss. For scale only, a field test in Maiduguri recorded more than 50% power loss after 14 days of continuous deposition (Abdulkarim et al., 2022), and a Calabar dry-season test found dust cut sunlight reaching the panel by 21.1% (Oyom et al., 2023). Those are worst-case readings from other cities, so ask the installer how the panels will be reached and cleaned on your roof.</p>"
+    },
+    {
+      "heading": "What an Ibadan quote should look like",
+      "html": "<p>Prices come from sellers, not from this site. In October 2026 Mercury Direct listed a 3.5 kVA hybrid inverter with a 5 kWh lithium battery and 8 x 450 W panels at N3,400,000, installation included. SMK Solar listed a 3.5 kVA system with a 5 kWh lithium battery and 6 x 450 W panels at N3,121,000, with \"installation accessories\" on the page, which is not the same as labour. The packages differ in panel count, so compare like with like. Naira prices move with the exchange rate, so a current written quote is the real number. See <a href=\"/solar-system-price-nigeria/\">solar system prices in Nigeria</a> for more listed packages.</p><p>Both sellers are based in Lagos. Mercury Direct says it installs in-house in Lagos and through local partners elsewhere, and SMK lists service centres in Lagos, Alaba, Benin, Uyo and Kano. So ask every Ibadan quote who physically installs the job, who answers when it trips, and where warranty claims go.</p><p>Do the generator sum too, with your own numbers. As an illustration only, a 3.0 kVA Sumec Firman ECO4990ES burning about 1.25 litres an hour (retailer Jamara Home: up to 12 hours at 50% load on a 15 L tank) for 5 hours at N1,400 a litre (Lagos pump price reported by Vanguard, 10-11 October 2026) costs 1.25 x 5 x 1,400 = N8,750 a day in petrol. Lead-acid batteries last only three to five years according to BusinessDay (February 2026), while the Felicity LPBF48100-A manual states 6,000 cycles at 80% depth of discharge against up to 1,500 stated by Luminous for its LPT 1240H tubular, each on its own maker's test conditions. For batteries and inverters, see <a href=\"/inverter-battery-installation/\">inverter and battery installation</a>.</p>"
+    },
+    {
+      "heading": "Checking the installer before you pay",
+      "html": "<p>NEMSA guidelines, as reported in April 2026, say rooftop solar PV must be installed only by NEMSA-certified electrical contractors. Ask for the installer's competency certificate and look them up on the NEMSA directory (nemsa.gov.ng/directory/) or verification page (nemsa.gov.ng/verification/). The same guidelines, as reported, expect a load assessment first, a sound roof and mounts, DC and AC isolators, breakers, surge protection, earthing, ventilated batteries and a battery management system on lithium.</p><p>Fake kit is a real worry. Industry experts quoted by NAN in July 2026 named batteries, inverters, panels, charge controllers and cables as the most counterfeited items, with fake batteries and inverters the biggest fire risk. That is an industry view, not a regulator warning, but the checks are cheap: manufacturer, serial numbers, QR codes, warranty papers and an authorised dealer.</p><p>Put everything on the quote: exact models, warranty terms, what is included, and how VAT is treated. Keep your receipts. The Federal Competition and Consumer Protection Act 2018 gives a right to return goods that do not match the agreed specification, so a written specification protects you. If something already installed keeps failing, start with <a href=\"/solar-inverter-repair/\">solar and inverter repair</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much does solar installation cost in Ibadan?",
+      "a": "There is no single Ibadan price, and this site does not set one. In October 2026 Mercury Direct listed a 3.5 kVA lithium package with panels at N3,400,000 and SMK Solar listed one at N3,121,000, both with different contents. BusinessDay (17 February 2026) put 3 to 4 kVA systems at N2 million to N3 million and professional installation alone at N150,000 to N800,000. Ask for two or three current written quotes, because naira prices keep moving."
+    },
+    {
+      "q": "Does harmattan dust affect solar panels in Ibadan?",
+      "a": "Dust does reduce output, but no measured soiling figure exists for Ibadan, so nobody can honestly quote you a typical loss. Studies elsewhere in West Africa show worst cases above 50% in the heaviest dust, which is why cleaning access matters. Ask the installer how often panels should be cleaned and how they will be reached on your roof."
+    },
+    {
+      "q": "Can solar run my AC, freezer and pumping machine in Ibadan?",
+      "a": "It depends on the system size and on your actual appliances. LG rates a 1 HP-class inverter split AC (9,000 BTU) at 1,000 W cooling input and a 1.5 HP-class (12,000 BTU) at 1,090 W, with a maximum of 1,350 W. For your freezer and pumping machine, an installer should do a load audit from the rating plates on your own appliances rather than guess."
+    },
+    {
+      "q": "Can I sell extra solar power to IBEDC?",
+      "a": "No, not with a typical home system. NERC's Net Billing Regulations 2026 start at a renewable system of 50 kWp, with DisCo approval and a bidirectional meter. A home system is far below that size, so plan to use what you generate yourself. Check your own IBEDC bill for your supply band and tariff."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Harmattan Solar Co — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://harmattansolar.com.ng/sitemap-index.xml

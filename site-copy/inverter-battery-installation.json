@@ -1,0 +1,74 @@
+{
+  "slug": "inverter-battery-installation",
+  "metaTitle": "Inverter Installation Across Nigeria | Harmattan Solar Co",
+  "metaDescription": "Inverter installation in Nigeria: hybrid or plain inverters, 12, 24 and 48 V battery banks, lithium upgrades and extra capacity. Call +234 809 000 0000.",
+  "h1": "Inverter Installation in Nigeria: Hybrid, Lithium and Tubular Battery Setups",
+  "heroSub": "Tell us your appliances and what batteries you have now, and an independent installer will quote the inverter, battery bank and protection in writing. Call now and ask for two or three comparable quotes.",
+  "introHtml": "<p>A proper inverter installation is more than hanging a box on the wall. The installer sizes the inverter against your real load, matches the battery bank to the inverter's voltage, fits breakers, surge protection and earthing, and puts the batteries somewhere with air. This page walks through each step so you can read a quote line by line before light goes again and the gen is the only thing running.</p><p>Harmattan Solar Co is advertising for independent installers. It does not install or sell equipment itself, so the work, the warranty and the invoice belong to the installer who quotes your job. We cover <a href=\"/solar-installation-lagos/\">Lagos</a>, <a href=\"/solar-installation-abuja/\">Abuja</a>, <a href=\"/solar-installation-port-harcourt/\">Port Harcourt</a>, <a href=\"/solar-installation-ibadan/\">Ibadan</a>, <a href=\"/solar-installation-benin-city/\">Benin City</a> and <a href=\"/solar-installation-enugu/\">Enugu</a>. Call +234 809 000 0000 with your appliance list, and see <a href=\"/solar-system-price-nigeria/\">published solar prices</a> to know what a fair quote looks like.</p>",
+  "features": [
+    {
+      "title": "Inverter and battery only",
+      "desc": "No panels yet? An inverter and battery bank charged from the grid is a valid starting point, and the installer can leave room to add panels later."
+    },
+    {
+      "title": "Panels added later",
+      "desc": "A hybrid inverter has a built-in solar charge controller (MPPT), so panels can join the same box once money allows. Check its maximum panel input first."
+    },
+    {
+      "title": "Tubular to lithium upgrade",
+      "desc": "If your tubular batteries no longer last the night, the installer checks whether your inverter accepts lithium at its voltage and charge settings before you pay for the battery."
+    },
+    {
+      "title": "More battery capacity",
+      "desc": "Need to run more overnight? The installer works out the extra kWh from your rating plates and says in writing whether new batteries can share a bank with old ones."
+    },
+    {
+      "title": "Breakers, surge protection, earthing",
+      "desc": "NEMSA guidelines as reported in April 2026 list isolators, breakers or fuses, surge protection and earthing. Each should appear as a line on your quote."
+    },
+    {
+      "title": "A quote you can compare",
+      "desc": "Exact inverter model, battery voltage and kWh, cable size, warranty years and VAT treatment, all written down, so two or three quotes can be compared like for like."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Plain inverter or hybrid inverter: what each does",
+      "html": "<p>A plain inverter turns battery power into AC for your sockets and, in most models, charges the battery from the grid or a gen when light is on. It is the simplest route if you only want backup for fans, lights, TV and a router. A hybrid inverter does the same job and also has a built-in solar charge controller (MPPT), so panels can be connected to the same unit.</p><p>That difference decides what is possible later. Start with a hybrid unit and you can run on inverter and battery only today, charged from the grid, then add panels when money allows without replacing the inverter. Start with a plain unit and panels mean a separate charge controller (SMK Solar listed MPPT controllers from N105,000 to N164,000 in October 2026) or a different inverter. Check the hybrid's maximum panel input on its datasheet before buying, because that caps how many panels you can add. Our <a href=\"/home-solar-installation/\">home solar installation</a> page covers the panel side.</p><p>Read the kW rating, not only the kVA. Real power in kW equals apparent power in kVA multiplied by the power factor (Fuji Electric), so a 5 kVA inverter at a 0.8 power factor carries 4 kW of real load. The datasheet of the exact model gives the true figure, and the installer should write it on the quote.</p>"
+    },
+    {
+      "heading": "Battery voltage: 12 V, 24 V or 48 V",
+      "html": "<p>The inverter fixes the battery voltage, not your preference. In October 2026 itel listed a 1.5 kW hybrid on 12 V, SMK Solar's 3.5 kVA package used a 24 V lithium battery, and itel's 6 kW hybrid is a 48 V unit. Buy the battery to match the inverter's stated voltage, and check this on the quote before you pay a deposit.</p><p>Voltage matters because power is voltage times current. Illustration: a 3,000 W load draws about 250 A from a 12 V bank (3,000 / 12) but about 62.5 A from a 48 V bank (3,000 / 48), ignoring losses. More current needs thicker cable and heavier breakers, which is why larger systems, including those for a shop, school or clinic under <a href=\"/commercial-solar/\">commercial solar</a>, sit on higher voltage. Ask the installer to write the cable size and breaker rating for the battery run.</p><p>Battery capacity in kWh is voltage times amp-hours. Mercury Direct lists its 5 kWh lithium battery as either 51.2 V 100Ah or 25.6 V 200Ah, and both come to about 5.1 kWh (51.2 x 100 = 5,120 Wh; 25.6 x 200 = 5,120 Wh). A 200Ah label tells you little until you know the voltage.</p>"
+    },
+    {
+      "heading": "Lithium or tubular: a lifetime-cost question",
+      "html": "<p>Tubular is cheaper on the day. SMK Solar listed a 3.5 kVA inverter with 2 x 220Ah tubular batteries at N1,382,000 and the same size inverter with a 5 kWh lithium battery at N1,947,000 in October 2026, a gap of N565,000. The real comparison is what each gives you per night over the years, not the sticker.</p><p>BusinessDay (February 2026) reports that lead-acid batteries last only three to five years. On manufacturer-stated figures, the Felicity LPBF48100-A (51.2 V, 5 kWh lithium) claims 6,000 cycles at 80% depth of discharge, and the Luminous LPT 1240H tubular claims up to 1,500 cycles at the same depth. That is 4 times the cycles (6,000 / 1,500), each on its maker's own test conditions. These are claims, not tests, so ask for the exact model's datasheet and warranty years.</p><p>Upgrading from tubular to lithium is not always a swap. The installer should confirm in writing that your existing inverter accepts the lithium battery's voltage and charge settings, and that the battery has a battery management system (BMS). Sometimes the honest answer is a new inverter too.</p><p>To add capacity, Mercury Direct listed 5 kWh lithium at N1,150,000 and 10 kWh at N2,350,000, and SMK Solar listed 5 kWh at N1,200,000 and 10 kWh at N1,950,000, all in October 2026. Whether a new battery can join an old bank is the installer's call from the datasheets. Prices move with the naira, so a current written quote is the real number.</p>"
+    },
+    {
+      "heading": "What a proper installation includes, and what your purchase order should say",
+      "html": "<p>NEMSA guidelines as reported in April 2026 (TheNigeriaLawyer, 20 April 2026) say rooftop solar PV must be installed only by NEMSA-certified electrical contractors, and the same standard of work is a fair thing to ask for on an inverter-only job. The reported checklist includes:</p><ul><li>A load assessment first, from your own appliances' rating plates.</li><li>DC and AC isolators, and breakers or fuses on each circuit.</li><li>Surge protection and proper earthing.</li><li>Cables run in conduit.</li><li>Batteries ventilated and kept away from living areas and heat.</li><li>A BMS on lithium batteries.</li></ul><p>For a purchase order, ask the quote to name the inverter model with its kVA and kW rating, the battery voltage, kWh and model with its cycle rating at a stated depth of discharge, the warranty years on each item from the maker's papers, the breaker and surge protection ratings, the cable size, where the batteries will sit, the VAT treatment and what the installer does after commissioning. Ask the installer for their NEMSA competency certificate and look them up in the NEMSA directory at nemsa.gov.ng/directory/.</p><p>Industry experts quoted by NAN (8 July 2026) say fake batteries and inverters are the biggest fire risk, so check serial numbers, QR codes and warranty papers and buy from authorised dealers. A written specification also helps you later, because the Federal Competition and Consumer Protection Act 2018 gives a right to return goods that do not match the agreed specification (s 122, as quoted by Templars, June 2025). SustifyHomes (August 2026) puts a maintenance visit, covering panel cleaning, torque checks, firmware and a health report, at N25,000 to N60,000; no service interval is published, so ask the installer to write one down.</p><p>If a system you already own keeps tripping, see <a href=\"/solar-inverter-repair/\">solar and inverter repair</a>. Otherwise, call +234 809 000 0000 now and ask for an independent installer to quote your job.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much does an inverter and battery without panels cost?",
+      "a": "It depends on the size and the battery type, and a current written quote is the real number. In October 2026 Mercury Direct listed a 3.5 kVA inverter and battery package at N1,521,000. SMK Solar listed a 3.5 kVA with 2 x 220Ah tubular at N1,382,000 and a 3.5 kVA with a 5 kWh lithium battery at N1,947,000. Compare what each package contains before comparing the totals."
+    },
+    {
+      "q": "Is a 5 kVA inverter the same as 5 kW?",
+      "a": "No. Real power in kW is kVA multiplied by the power factor, so a 5 kVA inverter at a 0.8 power factor carries 4 kW of real load (Fuji Electric). Read the kW rating on the exact model's datasheet. For reference, a 1.5 HP-class LG split AC is rated at 1,090 W input, so the inverter needs headroom beyond that for anything else running with it."
+    },
+    {
+      "q": "Can I add solar panels to an inverter and battery later?",
+      "a": "Yes, if the inverter is a hybrid with a built-in MPPT solar controller and its maximum panel input suits the panels you want. SMK Solar listed a 450 W full-cell panel at N85,000 in October 2026, so 8 panels (3.6 kW) come to 8 x N85,000 = N680,000 for panels alone, before mounts, cable and labour. In Lagos, 3.6 kW of panels averages about 13.8 kWh a day (3.6 x 3.83) and about 10.4 kWh on a July day (3.6 x 2.89), as a PVGIS model illustration, not a promise."
+    },
+    {
+      "q": "How long do tubular and lithium batteries last?",
+      "a": "BusinessDay (February 2026) reports that lead-acid batteries last only three to five years. Manufacturer-stated cycle claims at 80% depth of discharge are up to 1,500 for the Luminous LPT 1240H tubular and 6,000 for the Felicity LPBF48100-A lithium, which is 4 times as many. Felicity states a 5-year warranty on that model, and the Pylontech US5000 datasheet claims more than 8,000 cycles. Treat these as maker claims and read each warranty document."
+    },
+    {
+      "q": "How do I check an installer before paying a deposit?",
+      "a": "Ask for their NEMSA competency certificate and look them up in the NEMSA Directory of Certified Electrical Contractors at nemsa.gov.ng/directory/. NEMSA guidelines as reported in April 2026 say rooftop solar PV must be installed only by NEMSA-certified electrical contractors. Get the exact inverter and battery models, warranty terms and VAT treatment written on the quote, and keep your receipts."
+    }
+  ]
+}

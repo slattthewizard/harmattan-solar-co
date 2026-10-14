@@ -1,0 +1,39 @@
+{
+  "metaTitle": "About Harmattan Solar Co | Solar Installation in Nigeria",
+  "metaDescription": "How Harmattan Solar Co approaches home and business solar in Nigeria: load audits, comparable written quotes, installer checks and honest limits. Call now.",
+  "h1": "About Harmattan Solar Co: how a sound solar job is scoped and checked",
+  "heroSub": "We advertise independent installers in Lagos, Abuja, Port Harcourt, Ibadan, Benin City and Enugu, and we explain what a properly scoped quote looks like before you spend.",
+  "storyHtml": "<p>Harmattan Solar Co is an advertising site for independent solar installers. It does not install or sell equipment itself, and it holds no licence or certification of its own. What it does is set out, in plain language, how a sound solar job is scoped, quoted and checked, so you can judge the two or three quotes you collect.</p><p>A sound job starts with your appliances, not with a package. The installer should list what you want to run (AC, freezer, pumping machine), read the rating plates and add up the load before naming an inverter size. LG lists a 1 HP-class inverter split AC at 1,000 W rated cooling input, and a 5 kVA inverter at 0.8 power factor carries about 4 kW of real load, so always read the kW figure on the datasheet. Panel size then follows your city: PVGIS modelling puts 1 kWp of panels at about 3.83 kWh a day on average in Lagos and 4.20 in Abuja, and output drops in the rainy months.</p><p>When a system keeps tripping, or old batteries no longer carry you through the night, the useful questions are plain ones. Lead-acid batteries last only three to five years by BusinessDay's February 2026 account, so the battery is often the first thing to look at (see <a href=\"/inverter-battery-installation/\">inverter and battery installation</a> and <a href=\"/solar-inverter-repair/\">solar and inverter repair</a>). Next come the protection items that NEMSA guidelines, as reported in April 2026, list: DC and AC isolators, breakers or fuses, surge protection, earthing, cables in conduit and a battery management system on lithium batteries. Dust matters too. A worst-case field test in Maiduguri (Abdulkarim et al., 2022) recorded more than 50% loss in power output under 14 days of continuous dust deposition, though no measured figure exists for the six cities we cover.</p><p>Quality control is mostly paperwork you can ask for. NEMSA guidelines as reported in April 2026 say rooftop solar must be installed only by NEMSA-certified electrical contractors, so ask the installer who quotes your job to show their competency certificate. Industry experts quoted by NAN in July 2026 say fake batteries and inverters are the biggest fire risk, so check serial numbers, QR codes and warranty papers, and buy from authorised dealers. Then compare like with like using our <a href=\"/solar-system-price-nigeria/\">solar system price guide</a>, and call now if you want to talk your appliance list through.</p>",
+  "values": [
+    {
+      "title": "Load first, equipment second",
+      "desc": "A good scope begins with what you want to run and the rating plates on those appliances. Inverter, battery and panel sizes follow from that list, not from whichever package is on sale."
+    },
+    {
+      "title": "Quotes you can compare",
+      "desc": "Two or three written quotes are only comparable if each lists the exact inverter, battery and panel models, battery kWh, panel count, what installation covers, warranty terms and the VAT treatment. We push you to ask for all of it."
+    },
+    {
+      "title": "Every number named and dated",
+      "desc": "Prices come from a named seller in a named month, never as an average and never as our quote. The naira moves, so a current written quote is always the real number."
+    },
+    {
+      "title": "Honest about limits",
+      "desc": "We make no savings or payback promises, only worked arithmetic labelled as an illustration. A home cannot sell power back to the grid under current rules, and we say so plainly."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does Harmattan Solar Co install the system itself?",
+      "a": "No. This site advertises independent installers and does not install, sell or warrant equipment. The installer who quotes your job is responsible for the work, so get the scope, models and warranty terms written on that quote and keep your receipts."
+    },
+    {
+      "q": "What should a written solar quote list?",
+      "a": "It should name the exact inverter, battery and panel models, the battery size in kWh, the number and wattage of panels, whether installation is included, the warranty terms and how VAT is treated. If a quote only says '5kVA system', ask for the rest in writing before you compare prices."
+    },
+    {
+      "q": "Why are the prices on this site always dated and attributed?",
+      "a": "Naira prices move with the exchange rate. Mobility.com.ng wrote in June 2026 that a panel priced at N120,000 can jump to N140,000 a month later because of currency changes, so we only quote what a named seller listed in a named month and tell you to get a current written quote."
+    }
+  ]
+}

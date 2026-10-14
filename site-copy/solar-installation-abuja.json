@@ -1,0 +1,59 @@
+{
+  "slug": "solar-installation-abuja",
+  "city": "Abuja",
+  "metaTitle": "Solar Installation Abuja: Home and Business Solar Quotes",
+  "metaDescription": "Solar installation in Abuja, from Gwarinpa to Lugbe. Get comparable written quotes from independent installers for home or shop. Call now: +234 809 000 0000.",
+  "h1": "Solar Installation in Abuja",
+  "heroSub": "Abuja has the highest modelled solar output of the six cities this site covers, and a dusty harmattan season to plan around. Call now and ask for written quotes sized to your house, your load and your AEDC supply.",
+  "introHtml": "<p>Solar installation in Abuja means planning for strong sun, a dusty dry season and, often, a large detached house with a heavy load. If you are in Gwarinpa, Maitama, Wuse, Garki, Lugbe, Kubwa or Lokogoma and your light keeps going, you are probably spending on petrol to fill the gaps. This page covers what to ask for and what to check before you pay anyone.</p><p>Harmattan Solar Co advertises independent Nigerian solar installers. This site installs and sells nothing, and the installer who quotes your job is the one responsible for the work. Call now on +234 809 000 0000, then ask for <strong>two or three comparable written quotes</strong> that name the exact inverter, battery and panel models.</p>",
+  "services": [
+    {
+      "title": "Home solar installation in Abuja",
+      "desc": "Hybrid systems for Abuja flats and larger detached houses. An independent installer should size it from a load audit of your own appliances."
+    },
+    {
+      "title": "Inverter and battery installation",
+      "desc": "For old tubular batteries that no longer last the night, or a move to lithium. Ask the installer to write the exact battery model and its manufacturer cycle claim on the quote."
+    },
+    {
+      "title": "Commercial solar for Abuja businesses",
+      "desc": "Shops, schools, clinics, churches and small offices that want to cut diesel. A good quote states which loads the system carries and what still runs on the gen."
+    },
+    {
+      "title": "Solar and inverter repair",
+      "desc": "A system that keeps tripping, or batteries that die before morning, can point to poor sizing or wiring. An independent installer can inspect it and quote the fix."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What Abuja's sun and harmattan mean for your system",
+      "html": "<p>PVGIS modelling (SARAH2 data, 2005 to 2020, 1 kWp, 14% system losses) puts Abuja at 1,534 kWh per kWp per year, about 4.20 kWh a day. That is the highest of the six cities this site covers and about 21% more than Port Harcourt. Output peaks in the dry months (February about 4.90 kWh/kWp/day) and is lowest in the rains (August about 3.03).</p><p>As an illustration, 3.6 kW of panels in Abuja gives about 15.1 kWh on an average day (3.6 x 4.20) and about 10.9 kWh on a typical August day (3.6 x 3.03). These are model figures before dust, not a promise of what your roof will produce.</p><p>Harmattan is the dry, dusty season, and academic work at Ilorin treats November to March as its window. A Maiduguri field test found more than 50% loss in power output under 14 days of continuous dust deposition, and a Calabar dry-season test found dust cut the sunlight reaching the panel by 21.1%. Those are worst cases from other places and no measured soiling figure exists for Abuja, so ask any installer how your panels will be reached and cleaned.</p>"
+    },
+    {
+      "heading": "Sizing for a large Abuja house on an AEDC supply",
+      "html": "<p>A larger detached house in Gwarinpa or Maitama often has more ACs, a freezer and a pumping machine to carry. LG lists its 9,000 BTU inverter split AC (1 HP class) at 1,000 W rated cooling input and its 12,000 BTU unit (1.5 HP class) at 1,090 W, with a 1,350 W maximum, so a few ACs add up fast. For fridges, freezers and pumping machines, the installer should work from your own rating plates in a load audit.</p><p>Watch kVA against kW. Real power is apparent power times power factor, so a 5 kVA inverter at 0.8 power factor carries 4 kW of real load, and the kW figure on the datasheet is the one that counts. Mercury Direct, a Lagos seller, listed a 3.5 kVA hybrid with 5 kWh lithium and eight 450 W panels, installation included, at N3,400,000 in October 2026. SMK Solar, also Lagos, listed a 3.5 kVA package with 5 kWh lithium and six 450 W panels at N3,121,000.</p><p>Those are shop prices from Lagos sellers, not Abuja quotes and not this site's quotes, and naira prices move with the exchange rate, so a current written quote is the real number. On the grid side, NERC's order for AEDC puts Band A at N209.50 per kWh (AEDC 2025/059, latest read May 2026) and Band B non-MD at N63.35 per kWh at AEDC. Check your own bill for your band.</p>"
+    },
+    {
+      "heading": "Petrol versus solar, and how to check an installer",
+      "html": "<p>Vanguard reported Abuja petrol at N1,405 to N1,409 a litre on 10 and 11 October 2026. A Sumec Firman ECO4990ES (3.0 kVA rated, 15 L tank) runs up to 12 hours at 50% load according to retailer Jamara Home, about 1.25 L an hour. As an illustration, 1.25 L x 5 hours x N1,405 comes to about N8,780 a day in petrol, which is arithmetic and not a savings promise. Never run a generator indoors or near windows, because fumes kill.</p><p>NEMSA guidelines as reported in April 2026 say rooftop solar PV must be installed only by electrical contractors certified by NEMSA. NEMSA keeps a <a href=\"https://nemsa.gov.ng/directory/\">directory of certified electrical contractors</a> and a <a href=\"https://nemsa.gov.ng/verification/\">verification page</a>, so ask for the competency certificate and look it up. Industry experts quoted by NAN in July 2026 name batteries and inverters as the most counterfeited items, so check serial numbers, QR codes and warranty papers and buy from authorised dealers.</p><p>Get the exact models, warranty terms and VAT treatment written on the quote, and keep your receipts. For more on pricing, read <a href=\"/solar-system-price-nigeria/\">solar system prices in Nigeria</a>, or go to <a href=\"/home-solar-installation/\">home solar installation</a>, <a href=\"/inverter-battery-installation/\">inverter and battery installation</a>, <a href=\"/commercial-solar/\">commercial solar</a> and <a href=\"/solar-inverter-repair/\">solar and inverter repair</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much does solar installation cost in Abuja?",
+      "a": "This site sets no prices, and the sources it uses carry no Abuja-specific package figure. As reference points, Mercury Direct (Lagos) listed a 3.5 kVA hybrid with 5 kWh lithium and eight 450 W panels, installation included, at N3,400,000 in October 2026, and SMK Solar listed a 3.5 kVA package with 5 kWh lithium and six 450 W panels at N3,121,000. Package contents and exchange rates differ, so get a current written quote."
+    },
+    {
+      "q": "Does harmattan dust really cut solar output in Abuja?",
+      "a": "Dust reduces the sunlight reaching the panel. A Calabar dry-season test measured a 21.1% cut, and a Maiduguri test found more than 50% loss in power output under 14 days of continuous deposition. Those are worst-case studies and no measured figure exists for Abuja, so ask your installer how the panels will be cleaned from November to March."
+    },
+    {
+      "q": "Can I sell extra solar power to AEDC?",
+      "a": "No. There is no scheme for a typical home to sell power back to the grid. NERC's Net Billing Regulations 2026 start at systems of 50 kWp, with DisCo approval and a bidirectional meter, and a home system is far below that. Size your system for your own use."
+    },
+    {
+      "q": "What should I check before paying an installer in Abuja?",
+      "a": "Ask for their NEMSA competency certificate and look it up on NEMSA's contractor directory or verification page. Ask for the exact inverter, battery and panel models, the warranty terms and the VAT treatment on the quote. Then compare two or three written quotes like for like."
+    }
+  ]
+}

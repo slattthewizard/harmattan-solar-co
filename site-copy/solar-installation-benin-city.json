@@ -1,0 +1,59 @@
+{
+  "slug": "solar-installation-benin-city",
+  "city": "Benin City",
+  "metaTitle": "Solar Installation Benin City: Quotes and Installer Checks",
+  "metaDescription": "Solar installation Benin City: compare written quotes for homes and shops in GRA, Ugbowo, Uselu and Sapele Road. Call now on +234 809 000 0000.",
+  "h1": "Solar Installation in Benin City",
+  "heroSub": "From GRA and Uselu to Ugbowo and Ikpoba Hill, get two or three comparable written quotes for a solar and inverter system that suits your BEDC supply. Call now and an independent installer will talk you through it.",
+  "introHtml": "<p>Solar installation in Benin City usually starts the same way: a BEDC supply that does not hold, a gen that eats petrol, and a house in GRA, Uselu, Ugbowo or along Sapele Road that still goes dark when light goes. This page is advertising for independent installers, so the job is done by the installer who quotes you, not by this site.</p><p>The honest route is to get two or three written quotes that list the exact inverter, battery and panel models, then compare like with like. Call now on +234 809 000 0000 and you will be put in touch with an independent installer for your area of Benin City.</p>",
+  "services": [
+    {
+      "title": "Home solar installation",
+      "desc": "A hybrid system for a flat or duplex in GRA, Uselu or Ugbowo, sized from the rating plates of the appliances you actually want to run."
+    },
+    {
+      "title": "Inverter and battery installation",
+      "desc": "Swap tubular batteries that no longer last the night for lithium, or add an inverter to a house that only has a gen. Ask for the exact battery model and its warranty in writing."
+    },
+    {
+      "title": "Commercial solar",
+      "desc": "Shops, schools, clinics, churches and small offices around Sapele Road and Ikpoba Hill that want to cut diesel. The installer does a load audit before quoting."
+    },
+    {
+      "title": "Solar and inverter repair",
+      "desc": "If your system keeps tripping, an installer inspects the wiring, protection and settings before recommending a fix, instead of selling you a new inverter by default."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What your BEDC supply means for the system you buy",
+      "html": "<p>Benin City is served by BEDC, and the hours of light you get depend on your feeder and its NERC band. Band A means at least 20 hours a day, B 16, C 12, D 8 and E 4 (NERC Order 2025/064). Band A is N209.50/kWh since 1 July 2024 in NERC-regulated areas, but bands B to E differ by DisCo, and under the Electricity Act 2023 states can take over their own electricity markets. Check your own bill and ask your state regulator which tariff applies to you.</p><p>Your band changes the sizing. A house on a feeder that gives a few hours of light a day needs more battery than one that gets 16 hours. So the first question for any installer is how many hours of light you really get and what you want running through the night: AC, freezer, pumping machine. The installer works that out from your own appliances' rating plates. This page does not publish wattages for them.</p><p>Even a good feeder is not a full answer. The national grid collapsed about a dozen times in 2024 by press counts, and twice in January 2026 (23 and 27 January). Some backup is worth planning for whatever band you are on.</p>"
+    },
+    {
+      "heading": "Sun, rainy season and harmattan dust in Benin City",
+      "html": "<p>PVGIS-SARAH2 (2005 to 2020, 14% system losses, 10 degree tilt facing south) models Benin City at 1,380 kWh a year per kWp of panels, or 3.78 kWh a day. The best month is January at 4.48 kWh/kWp/day and the weakest is July at 2.84.</p><p>Here is the arithmetic as an illustration, not a promise. A 3.6 kW array times 3.78 gives about 13.6 kWh a day on average. In January it is 3.6 x 4.48, about 16.1 kWh, and on a July day 3.6 x 2.84, about 10.2 kWh. These are model figures before dust. If you want the night covered in the rainy season, ask the installer to size for July, not January.</p><p>Harmattan dust comes from the Sahel and Sahara. NiMet bulletins say haze reaches the north first and the south later and more lightly. Soiling studies in Maiduguri and Calabar found large losses in worst cases, but no measured soiling figure exists for Benin City, so none is quoted here. Ask the installer how the panels will be cleaned and by whom.</p>"
+    },
+    {
+      "heading": "Prices, quotes and installer checks for Benin City",
+      "html": "<p>Published October 2026 package prices from Lagos sellers put a 3.5 kVA lithium system with panels at roughly N3.1 to N3.4 million, and a 5 kVA-class system with 10 kWh of lithium and panels at about N5 to N5.5 million. For example, Mercury Direct listed a 3.5 kVA hybrid with 5 kWh lithium and 8 x 450 W panels, installation included, at N3,400,000 on 14 October 2026. That is one seller's listing, not a quote from this site, and naira prices move with the exchange rate. Ask whether delivery to Benin City is in the price, and treat a current written quote as the real number. More in <a href=\"/solar-system-price-nigeria/\">solar system price in Nigeria</a>.</p><p>NEMSA guidelines as reported in April 2026 say rooftop solar must be installed only by NEMSA-certified electrical contractors. Ask for the competency certificate and look the installer up in the NEMSA directory at nemsa.gov.ng/directory/. Industry experts quoted by NAN in July 2026 said fake batteries and inverters are the biggest fire risk, so get serial numbers, warranty papers and the exact models written on the quote.</p><p>Ask the installer to show the VAT treatment on the quote, and keep your receipts. The Federal Competition and Consumer Protection Act 2018 gives a right to return goods that do not match the agreed specification for a full refund (s 122, as quoted by Templars, June 2025), which is why the written specification matters. See also <a href=\"/home-solar-installation/\">home solar installation</a> and <a href=\"/inverter-battery-installation/\">inverter and battery installation</a> before you sign anything.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can an installer reach GRA, Ugbowo, Uselu, Sapele Road and Ikpoba Hill?",
+      "a": "Tell us your area when you call +234 809 000 0000. The installer who quotes your job confirms whether they can reach your address and whether a site visit is needed before a price is given."
+    },
+    {
+      "q": "Can I sell power back to BEDC from a home system?",
+      "a": "No. The NERC Net Billing Regulations 2026 start at a renewable system of 50 kWp, with DisCo approval, a bidirectional meter and an export tariff still to be determined. A home system is far below that, so there is no scheme for a typical Benin City house to sell power back to the grid."
+    },
+    {
+      "q": "Is solar cheaper than running a petrol gen in Benin City?",
+      "a": "It depends on your load, and no saving is promised here. As an illustration, a 3.0 kVA Sumec Firman ECO4990ES using about 1.25 litres an hour (retailer Jamara Home: up to 12 hours at 50% load on a 15 L tank) for 5 hours at N1,400 a litre (Lagos pump price reported by Vanguard, 10-11 October 2026) costs 1.25 x 5 x 1,400 = N8,750 a day in petrol. Check the pump price near you, and never run a gen indoors or near windows."
+    },
+    {
+      "q": "Does the rainy season cut what my panels give?",
+      "a": "Yes. PVGIS models Benin City at 4.48 kWh/kWp/day in January but 2.84 in July. Ask the installer to show what the system gives in July, and whether you will still need the gen on very cloudy days."
+    }
+  ]
+}
