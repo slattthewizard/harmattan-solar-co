@@ -14,12 +14,12 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await post.render();
 
-const canonical = post.data.canonical ?? `https://harmattansolar.com.ng/blog/${post.slug}/`;
+const canonical = post.data.canonical ?? `https://harmattansolar.com/blog/${post.slug}/`;
 const heroImg = fs.existsSync(`public/images/blog/${post.slug}.webp`)
   ? `/images/blog/${post.slug}.webp`
   : null;
 const ogImage = post.data.ogImage
-  ?? (heroImg ? `https://harmattansolar.com.ng${heroImg}` : 'https://harmattansolar.com.ng/images/og-image.webp');
+  ?? (heroImg ? `https://harmattansolar.com${heroImg}` : 'https://harmattansolar.com/images/og-image.webp');
 const title = post.data.metaTitle ?? post.data.title;
 const navTitle = post.data.navTitle ?? post.data.title;
 const faq = post.data.faq ?? [];
@@ -28,8 +28,8 @@ const breadcrumbSchema = JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://harmattansolar.com.ng/" },
-    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://harmattansolar.com.ng/blog/" },
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://harmattansolar.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://harmattansolar.com/blog/" },
     { "@type": "ListItem", "position": 3, "name": post.data.title, "item": canonical }
   ]
 });
@@ -44,12 +44,12 @@ const articleSchema = JSON.stringify({
   "mainEntityOfPage": { "@type": "WebPage", "@id": canonical },
   "datePublished": post.data.publishedDate,
   "dateModified": post.data.updatedDate ?? post.data.publishedDate,
-  "author": { "@type": "Organization", "name": "Harmattan Solar Co", "url": "https://harmattansolar.com.ng/about/" },
+  "author": { "@type": "Organization", "name": "Harmattan Solar Co", "url": "https://harmattansolar.com/about/" },
   "publisher": {
     "@type": "Organization",
     "name": "Harmattan Solar Co",
-    "url": "https://harmattansolar.com.ng",
-    "logo": { "@type": "ImageObject", "url": "https://harmattansolar.com.ng/images/og-image.webp" }
+    "url": "https://harmattansolar.com",
+    "logo": { "@type": "ImageObject", "url": "https://harmattansolar.com/images/og-image.webp" }
   }
 });
 

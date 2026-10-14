@@ -8,7 +8,7 @@ secondaryKeywords: "solar panel prices in nigeria, 450w solar panel price, 3.5kv
 publishedDate: "2026-10-14"
 tag: "Prices & Quotes"
 subtitle: "A 450 W panel at N85,000 sounds cheap, until the quote for the whole system comes back at N3.1 million and nobody can say where the rest went."
-canonical: "https://harmattansolar.com.ng/blog/solar-panel-price-nigeria/"
+canonical: "https://harmattansolar.com/blog/solar-panel-price-nigeria/"
 faq:
   - question: "How much does a 3.5 kVA solar system cost in Nigeria?"
     answer: "Published October 2026 package prices from Lagos sellers put a 3.5 kVA lithium system with panels at roughly N3.1 to N3.4 million. SMK Solar listed N3,121,000 and Mercury Direct listed N3,400,000, with different panel counts. Your quote depends on the exchange rate, the battery and the installation, so ask for a current written one."

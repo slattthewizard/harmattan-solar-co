@@ -8,7 +8,7 @@ secondaryKeywords: "lithium vs tubular battery, tubular battery price in nigeria
 publishedDate: "2026-10-14"
 tag: "Batteries & Inverters"
 subtitle: "Your tubular batteries are flat by 2am, the gen is coughing back to life, and somebody tells you to \"just go lithium.\" Then you see the numbers."
-canonical: "https://harmattansolar.com.ng/blog/lithium-vs-tubular-battery/"
+canonical: "https://harmattansolar.com/blog/lithium-vs-tubular-battery/"
 faq:
   - question: "How much is a lithium battery in Nigeria?"
     answer: "Lagos sellers listed 5 kWh LiFePO4 batteries at N1,150,000 to N1,200,000 on 14 October 2026, and 10 kWh at N1,950,000 to N2,350,000. Prices move with the naira, so treat these as a snapshot. Ask for a current written quote that names the model."

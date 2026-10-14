@@ -8,7 +8,7 @@ secondaryKeywords: "solar generator vs inverter system, portable power station p
 publishedDate: "2026-10-14"
 tag: "Batteries & Inverters"
 subtitle: "Searching for the solar generator price in Nigeria turns up a N320,000 box and a N5.5 million system under the same word, \"solar\". They are not the same product."
-canonical: "https://harmattansolar.com.ng/blog/solar-generator-vs-inverter-system/"
+canonical: "https://harmattansolar.com/blog/solar-generator-vs-inverter-system/"
 faq:
   - question: "How much does a solar generator cost in Nigeria?"
     answer: "In October 2026, listings we found ran from N320,000 for a 1,000 Wh unit at Nature Solar to N629,200 for the itel Power Tank 1000 and N887,000 for the Sun King PowerPlay Pro. Those are single-seller prices, and they move with the naira. Get a current written quote."

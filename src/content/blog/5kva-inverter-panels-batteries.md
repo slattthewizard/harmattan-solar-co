@@ -8,7 +8,7 @@ secondaryKeywords: "5kva inverter solar panels needed, 5kva inverter battery siz
 publishedDate: "2026-10-14"
 tag: "Batteries & Inverters"
 subtitle: "Two quotes for a \"5kVA\" system land on your WhatsApp. One lists 6 panels, the other lists 16, and the two published packages behind them sit about N1.7 million apart."
-canonical: "https://harmattansolar.com.ng/blog/5kva-inverter-panels-batteries/"
+canonical: "https://harmattansolar.com/blog/5kva-inverter-panels-batteries/"
 faq:
   - question: "Can a 5kVA inverter run a 1.5 HP AC?"
     answer: "On paper, yes. LG lists a 12,000 BTU inverter AC at 1,090 W rated and 1,350 W maximum, and a 5 kVA inverter at 0.8 power factor carries 4 kW. Check the surge rating with the installer, and remember the battery limits how long it runs at night."
